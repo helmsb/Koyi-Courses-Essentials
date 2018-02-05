@@ -1,6 +1,6 @@
 {
     "assessment": {
-        "final": [
+        "questions": [
             {
                 "question": "What does the work Koyi mean?",
                 "type": "multi-choice",
