@@ -1,0 +1,28 @@
+{
+    "assessment": {
+        "final": [
+            {
+                "question": "What does the work Koyi mean?",
+                "type": "multi-choice",
+                "options": [
+                    "Overcomplicated",
+                    "Learn",
+                    "Success",
+                    "None of the Above"
+                ],
+                "answer": "Learn"
+            },
+            {
+                "question": "What syntax does Koyi use?",
+                "type": "multi-choice",
+                "options": [
+                    "Markdown",
+                    "Markup",
+                    "Grafiti",
+                    "Sanscrit"
+                ],
+                "answer": "Markdown"
+            }
+        ]
+    }
+}
