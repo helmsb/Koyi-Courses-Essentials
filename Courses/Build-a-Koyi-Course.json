@@ -1,7 +1,7 @@
 {
         "questions": [
             {
-                "body": "What does the work Koyi mean?",
+                "body": "What does the word Koyi mean?",
                 "type": "multi-choice",
                 "options": [
                     "Overcomplicated",
@@ -17,7 +17,7 @@
                 "options": [
                     "Markdown",
                     "Markup",
-                    "Grafiti",
+                    "Graffiti",
                     "Sanscrit"
                 ],
                 "answer": "Markdown"
